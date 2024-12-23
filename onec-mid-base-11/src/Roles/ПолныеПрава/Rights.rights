@@ -1681,6 +1681,17 @@
 		</right>
 	</object>
 	<object>
+		<name>Catalog.Дк_КонтактныеЛица</name>
+		<right>
+			<name>InteractiveDelete</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>InteractiveDeletePredefinedData</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
 		<name>Constant.АвтоматическиНастраиватьРазрешенияВПрофиляхБезопасности</name>
 		<right>
 			<name>Read</name>
